@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">List Application</string>
+
+    <string-array name="items">
+        <item>Cookie</item>
+        <item>Lime</item>
+        <item>Apple</item>
+        <item>Salsa</item>
+        <item>Kosher Dill Pickles</item>
+        <item>White Claw</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.30</item>
+        <item>$0.75</item>
+        <item>$0.50</item>
+        <item>$2.00</item>
+        <item>$3.00</item>
+        <item>$3.50</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh homemade Cookies from Illinois</item>
+        <item>Fresh picked Limes from Texas</item>
+        <item>Fresh picked Apple from Wisconsin</item>
+        <item>Homemade Salsa</item>
+        <item>Farmed Dill Pickles</item>
+        <item>Spiked Sparkling Water</item>
+    </string-array>
+
+</resources>
